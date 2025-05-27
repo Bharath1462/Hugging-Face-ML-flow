@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/bbhar/Hugging-Face-ML-flow/mlruns/187086050534806253/ef5fbeb596c14cc59869d8ca9a3a1496/artifacts
+end_time: 1748341662125
+entry_point_name: ''
+experiment_id: '187086050534806253'
+lifecycle_stage: active
+run_id: ef5fbeb596c14cc59869d8ca9a3a1496
+run_name: unique-toad-187
+run_uuid: ef5fbeb596c14cc59869d8ca9a3a1496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748341660535
+status: 3
+tags: []
+user_id: bbhar

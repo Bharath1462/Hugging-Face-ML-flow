@@ -1,0 +1,2 @@
+question,output,timestamp
+How does AWS Lambda work?,"AWS Lambda lets you run code without provisioning servers. You upload your code, and Lambda automatically runs and scales it in response to events.",2025-05-27 16:57:54.889886

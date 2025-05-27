@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/bbhar/Hugging-Face-ML-flow/mlruns/187086050534806253/2a3ef0dac1a84467bb1e62e2c48facd5/artifacts
+end_time: 1748340897218
+entry_point_name: ''
+experiment_id: '187086050534806253'
+lifecycle_stage: active
+run_id: 2a3ef0dac1a84467bb1e62e2c48facd5
+run_name: ambitious-gull-890
+run_uuid: 2a3ef0dac1a84467bb1e62e2c48facd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748340895663
+status: 3
+tags: []
+user_id: bbhar

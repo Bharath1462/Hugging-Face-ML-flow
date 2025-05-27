@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/bbhar/Hugging-Face-ML-flow/mlruns/187086050534806253/c6c04822d5f24739aa8f7d7eb210b120/artifacts
+end_time: 1748340793563
+entry_point_name: ''
+experiment_id: '187086050534806253'
+lifecycle_stage: active
+run_id: c6c04822d5f24739aa8f7d7eb210b120
+run_name: lyrical-rat-167
+run_uuid: c6c04822d5f24739aa8f7d7eb210b120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748340791755
+status: 3
+tags: []
+user_id: bbhar

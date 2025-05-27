@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/bbhar/Hugging-Face-ML-flow/mlruns/187086050534806253/442733f338e94f129946df38072ceb0c/artifacts
+end_time: 1748341324689
+entry_point_name: ''
+experiment_id: '187086050534806253'
+lifecycle_stage: active
+run_id: 442733f338e94f129946df38072ceb0c
+run_name: victorious-rook-609
+run_uuid: 442733f338e94f129946df38072ceb0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748341322910
+status: 3
+tags: []
+user_id: bbhar

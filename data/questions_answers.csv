@@ -1,0 +1,31 @@
+question,answer
+What is Amazon EC2?,"Amazon Elastic Compute Cloud (EC2) is a web service that provides resizable compute capacity in the cloud, allowing you to run virtual servers."
+How does AWS Lambda work?,"AWS Lambda lets you run code without provisioning servers. You upload your code, and Lambda automatically runs and scales it in response to events."
+What is Infrastructure as Code (IaC)?,"IaC is the practice of managing and provisioning infrastructure using machine-readable definition files, rather than manual processes. Tools like AWS CloudFormation and Terraform are examples."
+Explain Continuous Integration (CI).,"CI is a DevOps practice where developers frequently merge their code changes into a central repository, followed by automated builds and tests to detect issues early."
+What is an AWS VPC?,A Virtual Private Cloud (VPC) is a logically isolated section of the AWS cloud where you can launch AWS resources in a virtual network you define.
+How do you secure an AWS S3 bucket?,"You secure S3 buckets by setting bucket policies, enabling encryption (at-rest and in-transit), applying IAM roles, and configuring access logging and versioning."
+What is Docker?,"Docker is a platform that allows developers to automate the deployment of applications inside lightweight, portable containers."
+What is the purpose of AWS CloudWatch?,"CloudWatch is a monitoring and observability service for AWS resources and applications, collecting logs, metrics, and events for operational insights."
+How does Kubernetes help in DevOps?,"Kubernetes automates container orchestration, allowing teams to deploy, scale, and manage containerized applications efficiently, supporting continuous deployment and reliability."
+What is a CI/CD pipeline?,"A CI/CD pipeline automates the process of integrating code changes, running tests, and deploying software to production environments continuously and reliably."
+Explain the difference between AWS IAM roles and policies.,IAM roles are identities with permissions policies that can be assumed by users or services. Policies define the permissions granted.
+What is Amazon RDS?,Amazon Relational Database Service (RDS) is a managed database service that supports several database engines and automates administrative tasks.
+What are the benefits of using AWS Elastic Beanstalk?,"Elastic Beanstalk simplifies application deployment by handling provisioning, load balancing, auto-scaling, and monitoring automatically."
+What is the blue-green deployment strategy?,"Blue-green deployment involves running two identical environments: one live (blue) and one idle (green). New code is deployed to green, and traffic is switched over when ready, minimizing downtime."
+How can you automate AWS resource provisioning?,"Automation can be achieved using Infrastructure as Code tools like AWS CloudFormation, Terraform, or AWS CDK, allowing declarative resource definitions."
+What is the function of AWS CodePipeline?,"CodePipeline is a fully managed continuous delivery service that automates the build, test, and deploy phases of release workflows."
+How does AWS Elastic Load Balancer work?,"It distributes incoming application traffic across multiple targets, such as EC2 instances, to improve fault tolerance and availability."
+What is the purpose of Docker Compose?,Docker Compose is a tool to define and run multi-container Docker applications using a simple YAML configuration file.
+What are AWS Security Groups?,Security Groups act as virtual firewalls controlling inbound and outbound traffic for AWS resources like EC2 instances.
+Explain the concept of immutable infrastructure.,"Immutable infrastructure means once deployed, servers are never modified; any updates result in new servers being provisioned and old ones retired, improving stability."
+What is a Canary deployment?,"A Canary deployment rolls out changes to a small subset of users before a full rollout, allowing for monitoring and rollback if issues occur."
+How do you monitor AWS Lambda functions?,"You use AWS CloudWatch Logs and Metrics to monitor invocation count, duration, error rates, and throttling."
+What is a container registry?,"A container registry stores and distributes Docker container images, such as Amazon Elastic Container Registry (ECR)."
+What is AWS CloudTrail?,"CloudTrail records AWS API calls and events for your account, enabling auditing, compliance, and operational troubleshooting."
+What is the difference between a Docker container and a virtual machine?,"Containers share the host OS kernel and isolate applications, making them lightweight and fast, whereas virtual machines run full OS instances on hypervisors."
+How can you implement secrets management in AWS?,"Use AWS Secrets Manager or AWS Systems Manager Parameter Store to securely store, manage, and retrieve secrets such as database credentials."
+What is the use of AWS Auto Scaling?,Auto Scaling automatically adjusts the number of compute resources based on demand to maintain performance and optimize costs.
+What is the difference between Stateful and Stateless applications?,"Stateless applications do not retain client state between requests, making them easier to scale; Stateful applications maintain session or data state."
+How do you rollback a deployment in AWS CodeDeploy?,You can configure automatic rollback on failure or manually initiate a rollback to the previous revision through the AWS Console or CLI.
+What is the purpose of AWS Systems Manager?,"AWS Systems Manager provides a unified interface to view and control your infrastructure, automate operational tasks, and securely manage resources."

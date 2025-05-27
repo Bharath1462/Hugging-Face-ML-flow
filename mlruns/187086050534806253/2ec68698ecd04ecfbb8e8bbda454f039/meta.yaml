@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/bbhar/Hugging-Face-ML-flow/mlruns/187086050534806253/2ec68698ecd04ecfbb8e8bbda454f039/artifacts
+end_time: 1748340807151
+entry_point_name: ''
+experiment_id: '187086050534806253'
+lifecycle_stage: active
+run_id: 2ec68698ecd04ecfbb8e8bbda454f039
+run_name: upset-ram-897
+run_uuid: 2ec68698ecd04ecfbb8e8bbda454f039
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748340805491
+status: 3
+tags: []
+user_id: bbhar

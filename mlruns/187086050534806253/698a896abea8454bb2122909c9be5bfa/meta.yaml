@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/bbhar/Hugging-Face-ML-flow/mlruns/187086050534806253/698a896abea8454bb2122909c9be5bfa/artifacts
+end_time: 1748340924463
+entry_point_name: ''
+experiment_id: '187086050534806253'
+lifecycle_stage: active
+run_id: 698a896abea8454bb2122909c9be5bfa
+run_name: popular-ape-394
+run_uuid: 698a896abea8454bb2122909c9be5bfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748340922886
+status: 3
+tags: []
+user_id: bbhar
